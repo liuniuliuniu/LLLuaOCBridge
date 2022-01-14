@@ -6,8 +6,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "LLBaseTableVC.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : LLBaseTableVC
 
 
 @end
